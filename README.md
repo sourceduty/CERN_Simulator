@@ -27,6 +27,16 @@ CERN also serves as a global hub for scientific innovation, technology developme
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Energy](https://github.com/sourceduty/Energy)
+<br>
+[Reactors](https://github.com/sourceduty/Reactors)
+<br>
+[Nuclear Chemistry Sim](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
+<br>
+[String Theorist](https://github.com/sourceduty/String_Theorist)
+<br>
+[Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
