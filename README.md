@@ -15,6 +15,9 @@ Develop a new CERN experiement.
 ```
 
 #
+![CERN](https://github.com/user-attachments/assets/0e8ebbf8-c40f-49ae-b80b-946b7a131833)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
